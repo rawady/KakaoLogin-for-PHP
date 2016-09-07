@@ -7,6 +7,10 @@ KLPL  - v0.08 (2016-09-07)
 
 LIVE DEMO : http://www.rawady.co.kr/open/kakao/
 
+네이버 아이디로 로그인 : https://github.com/rawady/NaverLogin-for-PHP
+
+
+
 
 **안내**
 카카오 로그인 for PHP는 네이버아이디로 로그인(https://github.com/rawady/NaverLogin-for-PHP) 라이브러리에
@@ -14,8 +18,8 @@ LIVE DEMO : http://www.rawady.co.kr/open/kakao/
 두 라이브러리 기능 및 사용법은 동일합니다.
 
 > 이제 곧 ...
->  - SNS 로그인(네이버/카톡/페이스북) 하나로 합친 라이브러리가 이제 곧... 
-
+> - SNS 로그인(네이버/카톡/페이스북) 하나로 합친 라이브러리가 이제 곧... 
+> - 버전빌딩이 오락가락 인거 같은데... 이건 나중에 정리할게요
 
 Documents
 ---------
@@ -26,6 +30,7 @@ Documents
 > - PHP로 **카카오 아이디로 로그인** 을 연동하기 쉽도록 제공합니다.
 > - 공식 API 연동 명세는  **아래 URL** 을 참고하세요.
 > - <i class="icon-share"></i> https://developers.kakao.com/docs/
+
 
 
 
